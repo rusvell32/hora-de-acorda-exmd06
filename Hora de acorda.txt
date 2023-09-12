@@ -1,0 +1,9 @@
+abrir os olhos
+desligar alarme
+levantar
+vai comer?
+    sim
+    preparar comida
+    não
+escovar os dentes
+trocar de roupa
